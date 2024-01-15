@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+The Feature-rich Enterprise-level Admin Panel created using React JS, Material UI, nivo charts and many more libraries.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features:
+- Light / Dark Mode toggle
+- MUI Table with sorting and column removal feature
+- Registration Form with validation
+- Calendar with Add / Remove Events
+- Interactive Charts like Bar Chart, Pie Chart, Line Chart & Geography Chart
 
-## Available Scripts
+# Technology
+- HTML
+- CSS
+- Javascript
+- React JS
 
-In the project directory, you can run:
+# Libraries
+- Material UI
+- React Router
+- React Pro Sidebar 0.71
+- Nivo Charts
+- Full Calendar
+- Formik
+- Yup
 
-### `npm start`
+# Live Site
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Screenshots
+![1](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/ead4d0aa-8de7-4bd9-902c-bb21c0ddf167)
+![2](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/3b1e0740-647a-4f74-bcae-9b2568bdae98)
+![3](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/5fe3553c-169d-4a10-99ac-c16f1823455d)
+![7](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/d3bb0403-39fd-4c88-9aa2-70eedbaaebd6)
+![4](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/1ad78837-588a-425a-8066-d4588ddb05b7)
+![5](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/0de8aef2-ce6e-4167-abc4-3b96e4e4a787)
+![6](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/c0ceef61-31bc-43c7-ab83-618576ddd1b1)

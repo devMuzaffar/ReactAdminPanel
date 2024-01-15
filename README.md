@@ -23,8 +23,7 @@ The Feature-rich Enterprise-level Admin Panel created using React JS, Material U
 - Yup
 
 # Live Site
-
-
+- https://reactadminpanelmk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/devMuzaffar/ReactAdminPanel/assets/4027728/ead4d0aa-8de7-4bd9-902c-bb21c0ddf167)
